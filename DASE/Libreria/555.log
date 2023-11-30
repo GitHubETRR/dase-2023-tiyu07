@@ -1,0 +1,36 @@
+Circuit: * C:\Users\lgiuliano\OneDrive - Escuela Tecnica Roberto Rocca\5° TEL\DASE\Libreria\555.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+WARNING: Less than two connections to node out.  This node is used by a1.
+WARNING: Less than two connections to node vcc.  This node is used by r1.
+Direct Newton iteration for .op point succeeded.
+Ignoring empty pin current: Ix(u1:1)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u2:1)
+Ignoring empty pin current: Ix(u2:2)
+Ignoring empty pin current: Ix(u1:1)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u2:1)
+Ignoring empty pin current: Ix(u2:2)
+
+Date: Fri Sep 29 14:02:12 2023
+Total elapsed time: 0.064 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2212
+traniter = 2202
+tranpoints = 1101
+accept = 1099
+rejected = 2
+matrix size = 7
+fillins = 0
+solver = Normal
+Avg thread counts: 1.1/1.3/1.3/1.1
+Matrix Compiler1:      14 opcodes  0.2/[0.1]/0.2
+Matrix Compiler2: off  [0.1]/0.1/0.2
+

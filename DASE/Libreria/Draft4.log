@@ -1,0 +1,44 @@
+Circuit: * C:\Users\lgiuliano\OneDrive - Escuela Tecnica Roberto Rocca\5° TEL\DASE\Libreria\Draft4.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 0.0993764
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 0.0990859
+vernier = 0.00195312
+vernier = 0.000976562
+vernier = 0.000488281
+Gmin = 0
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Pseudo Transient failed in finding the operating point at 0 s.
+Trouble finding operating point....skipping operating point for Transient analysis.
+Changing Tseed to 1e-08
+Changing Tseed to 1e-10
+Changing Tseed to 1e-07
+Changing Tseed to 1e-11
+Changing Tseed to 1e-06
+Changing Tseed to 1e-12
+Changing Tseed to 1e-05
+Changing Tseed to 1e-13
+Changing Tseed to 0.0001
+Changing Tseed to 1e-14
+Changing Tseed to 0.001
+Changing Tseed to 1e-15
+Fatal Error: Analysis:  Time step too small; initial timepoint: trouble with or-instance a2
+
